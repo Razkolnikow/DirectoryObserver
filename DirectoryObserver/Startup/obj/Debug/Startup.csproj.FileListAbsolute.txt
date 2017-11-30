@@ -1,0 +1,13 @@
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\bin\Debug\Startup.exe.config
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\bin\Debug\Startup.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\bin\Debug\Startup.pdb
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\obj\Debug\Startup.csprojResolveAssemblyReference.cache
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\obj\Debug\Startup.exe
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\obj\Debug\Startup.pdb
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\bin\Debug\Newtonsoft.Json.dll
+c:\users\raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\bin\Debug\Core.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Startup\bin\Debug\Core.pdb
+F:\DirectoryObserver\DirectoryObserver\Startup\bin\Debug\Startup.exe.config
+F:\DirectoryObserver\DirectoryObserver\Startup\obj\Debug\Startup.exe
+F:\DirectoryObserver\DirectoryObserver\Startup\obj\Debug\Startup.pdb

@@ -1,0 +1,18 @@
+﻿{
+  "configItems": [
+    {
+      "ID": "item1",
+      "Source": "F:\\dev\\temp\\first",
+      "Destination": "F:\\dev\\temp\\thirth",
+      "Action": "Copy",
+      "Filter": "*.*"
+    },
+    {
+      "ID": "item2",
+      "Source": "F:\\dev\\temp\\second",
+      "Destination": "F:\\dev\\temp\\fourth",
+      "Action": "Move",
+      "Filter": "*.*"
+    }
+  ] 
+}

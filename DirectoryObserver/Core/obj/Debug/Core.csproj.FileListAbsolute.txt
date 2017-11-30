@@ -1,0 +1,7 @@
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Core\bin\Debug\Core.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Core\bin\Debug\Core.pdb
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Core\obj\Debug\Core.dll
+C:\Users\Raskolnikov\documents\visual studio 2015\Projects\WorkAssignment\Core\obj\Debug\Core.pdb
